@@ -278,13 +278,13 @@
       "languageVersion": "2.19"
     },
     {
-      "name": "calcular_imc",
+      "name": "desafio_masterclass",
       "rootUri": "../",
       "packageUri": "lib/",
       "languageVersion": "2.19"
     }
   ],
-  "generated": "2023-05-31T14:40:56.405109Z",
+  "generated": "2023-05-31T22:00:33.380435Z",
   "generator": "pub",
   "generatorVersion": "2.19.3"
 }
